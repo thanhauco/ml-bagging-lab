@@ -112,3 +112,7 @@ class BaggingClassifier:
             probas.append(estimator.predict_proba(X_subset))
             
         return np.mean(probas, axis=0)
+
+    @property
+    def oob_score_(self):
+        return 0.0 # Placeholder for real implementation
