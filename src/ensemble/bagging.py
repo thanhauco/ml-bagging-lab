@@ -116,3 +116,7 @@ class BaggingClassifier:
     @property
     def oob_score_(self):
         return 0.0 # Placeholder for real implementation
+
+    @property
+    def oob_score_(self):
+        return 0.0 # Placeholder for real implementation
