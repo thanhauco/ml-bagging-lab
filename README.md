@@ -1,9 +1,8 @@
 # ML Bagging Lab
 
-Comprehensive Bagging implementation.
+Comprehensive Machine Learning Library from Scratch.
 
 ## Features
-- Bagging/Pasting
-- Random Forest
-- Metrics
-- Visualization
+- Bagging, Boosting, Stacking
+- Preprocessing, Metrics, Model Selection
+- PCA
